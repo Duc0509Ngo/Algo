@@ -1,0 +1,1 @@
+print('The message from __init__.py')
