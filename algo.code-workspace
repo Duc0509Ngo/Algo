@@ -5,6 +5,9 @@
     },
     {
       "path": "../clean_code"
+    },
+    {
+      "path": "../hack_wifi_password"
     }
   ],
   "settings": {
