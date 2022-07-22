@@ -30,8 +30,6 @@ x = [i**2 for i in range(10000)]
 
 g = gen(10000)
 print(next(g))
-print(sys.getsizeof(x))
 
-print(sys.getsizeof(g))
 
 
