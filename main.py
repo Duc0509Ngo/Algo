@@ -1,1 +1,3 @@
-from functools import reduce
+nums = [i * i for i in range(5)]
+
+print(nums)
